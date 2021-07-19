@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java script, AWS, Laravel, Responsive designing.
 - 💞️ I’m collaborating with Bifree that is a Japan Web development team.
 - 📫 buddikab97@gmail.com
+- 📱  +94779813460  
 
 <!---
 buddika-sandMan/buddika-sandMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
