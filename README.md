@@ -6,6 +6,6 @@
 - 📱  +94779813460  
 
 <!---
-buddika-sandMan/buddika-sandMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+buddika-abeykoon/buddika-abeykoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
