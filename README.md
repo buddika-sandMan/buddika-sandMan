@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buddika Abeykoon
 - 👀 I’m interested in learning new programming technologies.
-- 🌱 I’m currently learning Java script, AWS, Laravel, Responsive designing.
-- 💞️ I’m collaborating with Bifree that is a Japan Web development team.
+- 🌱 I have knowledge of JavaScript, Java, Spring Boot, Node, Express, Angular, React, Azure, Linux, and Bash scripting.
+- 💞️ I was collaborating with Bifree that is a Japan Web development team.
 - 📫 buddikab97@gmail.com
 - 📱  +94779813460  
 
